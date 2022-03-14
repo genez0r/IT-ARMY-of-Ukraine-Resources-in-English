@@ -18,9 +18,9 @@ Please [open an issue](https://github.com/danieldanielecki/IT-ARMY-of-Ukraine-Re
 
 1. Download the Tor Browser: https://www.torproject.org/download/
 2. Go to the websites
-https://warshipgofuckyourself.netlify.app/ 
-https://ddosrussia.netlify.app 
-https://russianwarshipgofuckyourself.club/ 
+https://warshipgofuckyourself.netlify.app/       - Working
+https://ddosrussia.netlify.app                   - Suspended
+https://russianwarshipgofuckyourself.club/       - Not Working
 3. See the targets falling:  https://rustatus.xyz/ (multiple test/probe points)
 
 ### Other DDoS Tools
